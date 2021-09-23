@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+
+.wrapper > div{
+    padding:1em;
+}
+
+.simplebtn {
+    padding:2px;
+    margin: auto;
+}
